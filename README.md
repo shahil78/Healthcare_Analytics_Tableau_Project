@@ -1,4 +1,4 @@
-# Tableau Projects
+# Healthcare_Analytics_Tableau_Projects
 
 Overview:-
 This project involves the visualization of diabetes patient data using Tableau. The goal is to provide insights into the distribution and characteristics of diabetic and non-diabetic patients through various graphical representations.
