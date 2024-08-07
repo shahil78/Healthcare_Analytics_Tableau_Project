@@ -25,3 +25,5 @@ Getting Started:-
 
 Prerequisites:- 
   Tableau Desktop or Tableau Public
+
+  [Project Link] (https://public.tableau.com/app/profile/shahil.qurishi/viz/HealthcareAnalytics-CapstoneProject_17188273321080/Dashboard2)
